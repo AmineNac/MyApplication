@@ -11,17 +11,18 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.medamine.myapplication.MainActivity"
-    tools:showIn="@layout/activity_main">
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello aùine!" />
+        android:text="Hello sihem!" />
 
     <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Hello amine!" />
+    android:text="Hello missoka!" />
 
     <RadioButton
         android:layout_width="wrap_content"
